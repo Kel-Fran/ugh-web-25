@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "cim": "Az oroszlánkirály",
+    "studio": "Walt Disney Pictures",
+    "megjelenesEve": 1994,
+    "premier": "1994-06-15"
+  },
+  {
+    "id": 2,
+    "cim": "Shrek",
+    "studio": "DreamWorks Animation",
+    "megjelenesEve": 2001,
+    "premier": "2001-05-18"
+  },
+  {
+    "id": 3,
+    "cim": "Némó nyomában",
+    "studio": "Pixar Animation Studios",
+    "megjelenesEve": 2003,
+    "premier": "2003-05-30"
+  },
+  {
+    "id": 4,
+    "cim": "Jégvarázs",
+    "studio": "Walt Disney Animation Studios",
+    "megjelenesEve": 2013,
+    "premier": "2013-11-27"
+  },
+  {
+    "id": 5,
+    "cim": "Gru",
+    "studio": "Illumination",
+    "megjelenesEve": 2010,
+    "premier": "2010-07-09"
+  },
+  {
+    "id": 6,
+    "cim": "Agymanók",
+    "studio": "Pixar Animation Studios",
+    "megjelenesEve": 2015,
+    "premier": "2015-06-19"
+  },
+  {
+    "id": 7,
+    "cim": "Így neveld a sárkányodat",
+    "studio": "DreamWorks Animation",
+    "megjelenesEve": 2010,
+    "premier": "2010-03-26"
+  }
+]
